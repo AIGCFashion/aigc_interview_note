@@ -21,11 +21,13 @@
 
 ## 注意：
 
-相关答案为自己整理，若有不合理地方，请指出修正，谢谢！
+- ✍️ 公众号会整理LLM、AIGC的入门笔记、论文学习笔记、一线大厂面经等
+
+ <img src=https://github.com/user-attachments/assets/27aaff49-132c-4e0e-9718-a975e7d426cf width = "130" height = "130" alt="weixin" />
 
 欢迎关注加入知识星球，会不定期更新 AIGC 相关知识，以及一些面试、业务落地经验：
 
- <img src=./img/img.jpg />
+  <img src=/img/img.jpg width = "500" height = "700" alt="weixin" />
 
 ## 目录
 
